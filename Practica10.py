@@ -1,7 +1,6 @@
 Lista = []
 continuar=True
 repeticion=0
-menor=None
 while continuar==True:
   nombre = input("ingrese el nombre que desee: ")
   if nombre=="":# esta solo en comillas refiriendoce a que le dio enter sn ingresar nada
